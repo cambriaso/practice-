@@ -1,0 +1,11 @@
+,DonorID,DidDonorDonate,AmountDonatedToCampaign,AccountAgeInMonths,AgeOfDonor,Setting,Homeowner,Gender,Phone,MedianHomeValue,MedianIncome,RecentDonor,RecentResponsePercent,RecentAvgAmount,MonthsSinceLastGift,TotalAmountDonatedBeforeCampaign,TotalDonationsBeforeCampaign
+0,1,No,NaN,17,7,Urban,Yes,Female,Unlisted,3585,540,No,0.2,15,17,15,1
+1,2,No,NaN,17,21,Urban,No,Female,Listed,2281,526,No,0.2,15,17,15,1
+2,3,No,NaN,17,25,Urban,No,Female,Unlisted,919,453,No,0.143,25,21,25,1
+3,4,No,NaN,17,27,Urban,No,Male,Listed,1236,248,No,0.2,18,16,18,1
+4,5,No,NaN,17,27,Urban,Yes,Male,Listed,1090,274,No,0.2,30,16,50,2
+8127,8128,No,NaN,137,86,Rural,Yes,Female,Listed,455,163,No,0.118,8.5,21,65,11
+8128,8129,No,NaN,137,87,Rural,Yes,Unknown,Listed,356,193,Yes,0.133,20,24,251,24
+8129,8130,Yes,5,137,87,Rural,Yes,Male,Listed,364,144,Yes,0.111,3,18,71,23
+8130,8131,No,NaN,137,87,Rural,No,Unknown,Unlisted,232,94,Yes,0.19,11,18,110,17
+8131,8132,No,NaN,137,87,Rural,No,Male,Unlisted,595,332,No,0.5,10,16,86,19
